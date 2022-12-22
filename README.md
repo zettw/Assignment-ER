@@ -29,9 +29,9 @@ Create a markless AR application that will allow the user to drop a 3D sphere mo
  
 ![](https://github.com/zettw/Assignment-ER/blob/main/Media/2.GIF)
 
- - Aim the crosshair on the soccer and tap the on the screen, a marble will be shot out from the center of the screen
- - When being shot at, the soccer ball color will be changed and copy the color of the marble that hits it
-  - The goal keeper will move left and right constantly
+ - Aim the crosshair on the soccer ball and tap on the screen, a marble will be shot out from the center of the screen
+ - Upon being shot at, the soccer ball's color will changed to the color of the marble that hits it
+  - The goal keeper will move left and right constantly to block the soccer ball
   - When the marble hits the soccer ball, both the marble and soccer ball will be destroyed after 1.5 seconds 
   - A new soccer ball is then loaded and randomly dropped at a position near the goal post
   
