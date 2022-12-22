@@ -53,7 +53,7 @@ Create a markless AR application that will allow the user to drop a 3D sphere mo
 
  - The size of the 3D model scales according to the size of the selected AR plane
  
- ![](https://github.com/zettw/Assignmen-ER/blob/main/Media/8.GIF)
+ ![](https://github.com/zettw/Assignment-ER/blob/main/Media/8.GIF)
 
 
 
