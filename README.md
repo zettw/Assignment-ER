@@ -13,11 +13,11 @@ Create a markless AR application that will allow the user to drop a 3D sphere mo
  - By aiming the target indicator at the desired generated AR plane and tapping on the screen, a 3D sphere will be created and dropped on the position of the target indicator
  - While the 3D sphere is being dropped, the material color of the generated AR plane will then be changed to clear color to give the user a feel of the 3D sphere bouncing on the real world surface
  
-![](https://github.com/zettw/Assignment_ER/blob/main/Media/1.GIF)
+![](https://github.com/zettw/Assignment-ER/blob/main/Media/1.GIF)
 
  - Move the phone to shift the target indicator around the plane and tap the screen to create more 3D sphere
  
- ![](https://github.com/zettw/Assignment_ER/blob/main/Media/7.GIF)
+ ![](https://github.com/zettw/Assignment-ER/blob/main/Media/7.GIF)
 
 ## Scene 2: Mini Game - Marble Soccer
  - Based the 3D sphere dropping concept from scene 1, extra features were added to create a mini game 
@@ -27,7 +27,7 @@ Create a markless AR application that will allow the user to drop a 3D sphere mo
  - The top left of the screen shows the list of marbles in their order and colors (red, green & blue)
  - The white triangle pointer tells the user the current color of the marble to be shot out
  
-![](https://github.com/zettw/Assignment_ER/blob/main/Media/2.GIF)
+![](https://github.com/zettw/Assignment-ER/blob/main/Media/2.GIF)
 
  - Aim the crosshair on the soccer and tap the on the screen, a marble will be shot out from the center of the screen
  - When being shot at, the soccer ball color will be changed and copy the color of the marble that hits it
@@ -35,25 +35,25 @@ Create a markless AR application that will allow the user to drop a 3D sphere mo
   - When the marble hits the soccer ball, both the marble and soccer ball will be destroyed after 1.5 seconds 
   - A new soccer ball is then loaded and randomly dropped at a position near the goal post
   
-![](https://github.com/zettw/Assignment_ER/blob/main/Media/3.GIF)
+![](https://github.com/zettw/Assignment-ER/blob/main/Media/3.GIF)
 
  - The color of the goal post will change randomly (red, green & blue) every second
  - Objective of the game is to get the same colored soccer ball into the same colored goal post 
  - Mismatch soccer ball and goal post color minus a point from the score
  
-![](https://github.com/zettw/Assignment_ER/blob/main/Media/4.GIF)
+![](https://github.com/zettw/Assignment-ER/blob/main/Media/4.GIF)
 
  - Matching soccer ball and goal post color adds a point to the score
  
-![](https://github.com/zettw/Assignment_ER/blob/main/Media/5.GIF)
+![](https://github.com/zettw/Assignment-ER/blob/main/Media/5.GIF)
 
  - Tap on the "Retry" button to regenerate the random colored marbles and set the score back to zero
  
-![](https://github.com/zettw/Assignment_ER/blob/main/Media/6.GIF)
+![](https://github.com/zettw/Assignment-ER/blob/main/Media/6.GIF)
 
  - The size of the 3D model scales according to the size of the selected AR plane
  
- ![](https://github.com/zettw/Assignment_ER/blob/main/Media/8.GIF)
+ ![](https://github.com/zettw/Assignmen-_ER/blob/main/Media/8.GIF)
 
 
 
